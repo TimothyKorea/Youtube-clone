@@ -60,4 +60,4 @@ The project recreates the core layout of YouTube's homepage and dynamically rend
 
 ## Live Demo
 
-🔗 https://Timothykorea.github.io/youtube-clone/
+🔗 https://timothykorea.github.io/Youtube-clone/
